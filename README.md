@@ -11,7 +11,7 @@ This is important steps to involve the data analysis process, which is CRISP-DM.
 Looking at the stackoverflow survey data, these are my questions:
 - Is There a Difference in The Number of Men and Women Developers?
 - What are The Top 10 Countries That did The Survey of Stack Overflow in 2020?
-- What are The Most Pogramming Languages Worked in United States?
+- What are The Top 10 Programming Languages Worked in United States, United Kingdom and Germany?
 
 ### 2. Data Understanding:
 There is many columns in survey dataset. But for giving answers of our question what data will be used. This part understand as Data understanding.
