@@ -33,10 +33,10 @@ Once we are ready with our model, the final stage is deployment.
 - libraries which needs to be installed (Numpy, Pandas & Matplotlib)
 
 ## File Descriptions:
-- README.md : contain all details about the project.
-- Stack Overflow 2020 Data.ipynb: jupyter notebook with CRISP-DM process
-- survey_results_public.csv.zip: contain the whole dataset used for the analysis.
-- survey_results_schema.csv: gives the questions associated with each data column name
+- **README.md :** contain all details about the project.
+- **Stack Overflow 2020 Data.ipynb:** jupyter notebook with CRISP-DM process
+- **survey_results_public.csv.zip:** contain the whole dataset used for the analysis.
+- **survey_results_schema.csv:** gives the questions associated with each data column name
 
 ## Result:
 I blogged a post in Medium detailing the results for the public It only takes two min, I am glad to share it with you. [here](https://medium.com/@alabdullatif.ab/stack-overflow-survey-data-2020-7bb4810b4bda)
